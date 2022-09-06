@@ -17,7 +17,7 @@
 // Write the code that will log whether your string includes the letter "e"?
 // console.log(myName.includes("e"))
 // Write the code that will log the character at the first index of the string.
-// console.log(myName.charAt(0))
+
 // console.log(myName[0])
 // Write the code that will log the string in all uppercase letters.
 // console.log(myName.toUpperCase())
